@@ -6,7 +6,7 @@ The school board has notified Maria and her supervisor that the students_complet
 ## Resources 
 Data Source: schools_complete.csv, students_complete.csv
 
-Software: Jupyter Notebook
+Software: Python, Jupyter Notebook
 
 ## Overview of the school district analysis:
 The purpose of this school district analysis is to read the election results from csv files (school and student data) and complete necessary tasks for analysis. The first task was to replace the reading and math scores for Grade 9 from Thomas High School with NaN. The next task was to find the following metrics: 
